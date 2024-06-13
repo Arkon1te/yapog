@@ -1,2 +1,7 @@
 test
+test_rl
+
 *.o
+
+raylib
+
